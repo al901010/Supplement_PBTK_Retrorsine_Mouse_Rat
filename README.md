@@ -1,4 +1,4 @@
-# Supplement_PBTK_Retrorsine_Mouse_Rat
+# Supplement PBTK modeling of retrorsine in mouse and rat
 
 ___
 
