@@ -4,7 +4,7 @@ ___
 
 This repository contains code and data used in the following publication:
 
-A. Lehmann et al. PBTK modeling of the pyrrolizidine alkaloid retrorsine to predict liver toxicity in mouse and rat. (2023)
+A. Lehmann et al. PBTK modeling of the pyrrolizidine alkaloid retrorsine to predict liver toxicity in mouse and rat. (2023) DOI: 10.1007/s00204-023-03453-z
 
 ___
 
